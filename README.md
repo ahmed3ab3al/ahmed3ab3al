@@ -4,7 +4,6 @@
 
  A **Flutter Developer** with a passion for building high-performance, cross-platform applications . Recently graduated with a **B.Tech in Information Technology** from the University of Zagazig .
 
-
 - 💼 Currently working on building mobile applications .
 - 🌱 Learning more about advanced Flutter techniques and state management.
 - 💬 Ask me about Flutter, Dart, Firebase, and mobile app development.
@@ -18,8 +17,6 @@
 <h1></h1>
 
 
-
-
 ### 🛠 Skills
 
 ### Languages
@@ -30,6 +27,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Sqflite](https://img.shields.io/badge/Sqflite-47A248?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFAE3D?style=for-the-badge&logo=hive&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
