@@ -1,0 +1,29 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # هذا يجعل التحديث يحدث يوميًا عند منتصف الليل
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone Repository
+        uses: actions/checkout@v2
+
+      - name: Update README Stats
+        run: |
+          echo "Updating README Stats..."
+          curl -s "https://github-readme-stats.vercel.app/api?username=ahmed3ab3al&show_icons=true&theme=radical" > README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "ahmed3ab3al"
+          git config --global user.email "ahmedalaaabdalalw9@gmail.com"
+          git add .
+          git commit -m "Updated README stats automatically"
+          git push
