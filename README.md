@@ -46,12 +46,12 @@
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-1E8449?style=for-the-badge&logo=problem-solving&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed3ab3al&show_icons=true&locale=en&layout=compact" alt="ahmed3ab3al" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed3ab3al&show_icons=true&locale=en" alt="ahmed3ab3al" /></p>
-
-
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed3ab3al&" alt="ahmed3ab3al" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed3ab3al&show_icons=true&theme=default" alt="ahmed3ab3al" />
 </p>
+
+
+
 
 
 
