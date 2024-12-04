@@ -57,4 +57,8 @@
 ### 📊 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ahmed3ab3al&show_icons=true&locale=en&layout=compact&theme=radical)
 
+<h1></h1>
 
+
+### 🔥 Streak Stats  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed3ab3al&theme=dark" alt="ahmed3ab3al" /></p>
