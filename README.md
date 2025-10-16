@@ -45,6 +45,7 @@
 ![Dio](https://img.shields.io/badge/Dio-00BCD4?style=for-the-badge&logo=flutter&logoColor=white)
 ![Shared Preferences](https://img.shields.io/badge/Shared%20Preferences-47A248?style=for-the-badge&logo=android&logoColor=white)
 ![State Management (Bloc)](https://img.shields.io/badge/State%20Management-Bloc-8E44AD?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter Animation](https://img.shields.io/badge/Flutter%20Animation-00BFFF?style=for-the-badge&logo=flutter&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Mobile Development](https://img.shields.io/badge/Mobile%20Development-47A248?style=for-the-badge&logo=mobile&logoColor=white)
 ![UI/UX Design](https://img.shields.io/badge/UI%2FUX-Design-FF4088?style=for-the-badge&logo=figma&logoColor=white)
