@@ -6,7 +6,7 @@
 
 - 💼 Currently working on building mobile applications .
 - 🌱 Learning more about advanced Flutter techniques and state management.
-- 💬 Ask me about Flutter, Dart, Firebase, SupaBase, and mobile app development.
+- 💬 Ask me about Flutter, Dart, Firebase, SupaBase, and Mobile App Development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
