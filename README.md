@@ -2,7 +2,7 @@
 
 ### 🚀 About Me  
 
- A **Flutter Developer** with a passion for building high-performance, cross-platform applications . Recently graduated with a **B.Tech in Information Technology** from the University of Zagazig .
+ A **Flutter Developer** with a passion for building high-performance, cross-platform applications . Recently Graduated with a **B.Tech in Information Technology** from the University of Zagazig .
 
 - 💼 Currently working on building Mobile Applications .
 - 🌱 Learning more about advanced Flutter techniques and State Management.
